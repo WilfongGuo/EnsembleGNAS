@@ -5,5 +5,3 @@ Recent versions of PyTorch, numpy, scipy, sklearn, torch_geometric and networkx 
 #### Running the code
 
     python -m Ensemble-GNAS-node.main
-
-
